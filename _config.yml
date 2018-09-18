@@ -18,7 +18,7 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
-baseurl: # the subpath of your site, e.g. ""
+baseurl: "" #the subpath of your site, e.g. ""
 url: "https://wooo.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
